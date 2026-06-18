@@ -10,7 +10,7 @@
 
 转换后的 raw 链接： https://raw.githubusercontent.com/9602894/bendicang/main/tvboxqq/%E8%82%A5%E7%8C%AB/api.json
 
-加上 gh-proxy.com 前缀的最终加速链接： 
+前缀的最终加速链接： 
 https://gh-proxy.com/https://raw.githubusercontent.com/9602894/bendicang/main/tvboxqq/%E8%82%A5%E7%8C%AB/api.json
 
 备用肥猫
