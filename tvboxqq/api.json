@@ -6,6 +6,35 @@
     "logo": "http://hello.xn--z7x900a.com/fm.gif",
     "sites": [
         {
+            "key": "潮流",
+            "name": "🏜┃潮流┃APP",
+            "type": 3,
+            "api": "csp_AppRJ",
+            "ext": "http://v.rbotv.cn"
+        },
+        {
+            "key": "csp_Netfixtv",
+            "name": "💌┃️至臻┃影视",
+            "type": 3,
+            "api": "csp_Duopan",
+            "filterable": 1,
+            "ext": {
+                "site_urls": [
+                    "https://pan.mihdr.top",
+                    "https://www.zhizhen1.top",
+                    "https://www.mihdr.top",
+                    "https://www.miqk.cc",
+                    "https://www.zhizhenpan.com",
+                    "https://www.zhizhen8.click"
+                ],
+                "url_key": "Netfixtv2",
+                "threadinfo": {
+                    "chunksize": 512,
+                    "threads": 16
+                }
+            }
+        },
+        {
             "key": "豆瓣",
             "name": "🐼┃公众号：肥猫宝贝┃",
             "type": 3,
@@ -71,35 +100,6 @@
                 },
                 "url_key": "Duopan2"
             }
-        },
-        {
-            "key": "csp_Netfixtv",
-            "name": "💌┃️至臻┃影视",
-            "type": 3,
-            "api": "csp_Duopan",
-            "filterable": 1,
-            "ext": {
-                "site_urls": [
-                    "https://pan.mihdr.top",
-                    "https://www.zhizhen1.top",
-                    "https://www.mihdr.top",
-                    "https://www.miqk.cc",
-                    "https://www.zhizhenpan.com",
-                    "https://www.zhizhen8.click"
-                ],
-                "url_key": "Netfixtv2",
-                "threadinfo": {
-                    "chunksize": 512,
-                    "threads": 16
-                }
-            }
-        },
-        {
-            "key": "潮流",
-            "name": "🏜┃潮流┃APP",
-            "type": 3,
-            "api": "csp_AppRJ",
-            "ext": "http://v.rbotv.cn"
         },
         {
             "key": "肥猫",
