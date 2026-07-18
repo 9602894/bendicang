@@ -28,7 +28,7 @@
     { "key": "csp_Bili", "name": "┃️哔哩┃合集", "type": 3, "api": "csp_Bili", "playerType": 2, "ext": { "json": "./lib/0075389dca9afadd4614e9713765ff17.txt", "cookie": "" }, "style": { "type": "rect", "ratio": 1.333 } },
     { "key": "csp_Dm84", "name": "┃动漫┃巴士", "type": 3, "playerType": "2", "api": "csp_Dm84", "ext": "https://dm84.net" },
   
-    { "key": "番薯", "name": "┃番薯┃动漫", "type": 3, "api": "csp_AppGet", "ext": "https://new.app.bytegooty.com|N4yj7l7xKxHF4*gz" },
+  
     { "key": "csp_FirstAid", "name": "┃急救┃教学", "type": 3, "api": "csp_FirstAid", "searchable": 0, "quickSearch": 0, "style": { "type": "rect", "ratio": 3.8 }, "gridview": "0-0-4.1" },
     { "key": "酷狗", "name": "┃酷狗┃音乐", "type": 3, "api": "csp_Kugou", "playerType": 2, "ext": { "classes": [ { "type_name": "酷狗", "type_id": "kugou" } ] } },
     { "key": "MTV", "name": "┃明星┃MV", "type": 3, "api": "csp_Bili", "playerType": 2, "ext": { "json": "https://img2.gelonghui.com/library/2b4eb-8fb08a6b-f9f1-48d8-816a-1bc712a85fefnull", "cookie": "" }, "style": { "type": "rect", "ratio": 1.333 } },
