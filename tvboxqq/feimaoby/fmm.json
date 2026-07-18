@@ -27,7 +27,7 @@
     { "key": "csp_SP360", "name": "┃360┃官源", "type": 3, "api": "csp_SP360" },
     { "key": "csp_Bili", "name": "┃️哔哩┃合集", "type": 3, "api": "csp_Bili", "playerType": 2, "ext": { "json": "./lib/0075389dca9afadd4614e9713765ff17.txt", "cookie": "" }, "style": { "type": "rect", "ratio": 1.333 } },
     { "key": "csp_Dm84", "name": "┃动漫┃巴士", "type": 3, "playerType": "2", "api": "csp_Dm84", "ext": "https://dm84.net" },
-    { "key": "方舟", "name": "┃方舟┃动漫", "type": 3, "api": "csp_AppGet", "ext": "https://www.cyfz.top|e72cdfd629e8895d" },
+  
     { "key": "番薯", "name": "┃番薯┃动漫", "type": 3, "api": "csp_AppGet", "ext": "https://new.app.bytegooty.com|N4yj7l7xKxHF4*gz" },
     { "key": "csp_FirstAid", "name": "┃急救┃教学", "type": 3, "api": "csp_FirstAid", "searchable": 0, "quickSearch": 0, "style": { "type": "rect", "ratio": 3.8 }, "gridview": "0-0-4.1" },
     { "key": "酷狗", "name": "┃酷狗┃音乐", "type": 3, "api": "csp_Kugou", "playerType": 2, "ext": { "classes": [ { "type_name": "酷狗", "type_id": "kugou" } ] } },
