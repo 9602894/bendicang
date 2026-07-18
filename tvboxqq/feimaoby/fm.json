@@ -60,7 +60,7 @@
    
     
  
-  
+    { "key": "ppx", "name": "皮皮虾.py", "type": 3, "api": "https://ghfast.top/https://raw.githubusercontent.com/FGBLH/HKL/refs/heads/main/py/皮皮虾.py", "ext": "http://43.248.117.123:4680" },
     { "key": "ddvm", "name": "低端影视.py", "type": 3, "api": "https://ghfast.top/https://raw.githubusercontent.com/FGBLH/HKL/refs/heads/main/py/低端影视.py" },
     { "key": "cbh", "name": "茶杯狐.py(关梯)", "type": 3, "api": "https://ghfast.top/https://raw.githubusercontent.com/FGBLH/HKL/refs/heads/main/py/茶杯狐.py" },
     { "key": "ww", "name": "哇哇APP.py(关梯)", "type": 3, "api": "https://ghfast.top/https://raw.githubusercontent.com/FGBLH/HKL/refs/heads/main/py/哇哇APP.py" },
@@ -108,9 +108,13 @@
     { "key": "量子2k", "name": "量子影视｜追剧", "type": 1, "api": "http://cj.lziapi.com/api.php/provide/vod/", "searchable": 1, "quickSearch": 1, "filterable": 0, "playurl": "json:https://lziplayer.com/?url=", "categories": [ "国产剧", "国产动漫", "泰国剧", "台湾剧", "香港剧", "欧美剧", "韩国剧", "日本剧", "动漫", "体育", "剧情片", "动作片", "爱情片", "喜剧片" ] },
     { "key": "API_如意", "name": "如意影视｜追剧", "type": 1, "api": "https://cj.rycjapi.com/api.php/provide/vod", "ext": "", "searchable": 1, "quickSearch": 1, "filterable": 1, "categories": [ "动作片", "灾难片", "爱情片", "科幻片", "战争片", "喜剧片", "恐怖片", "预告片", "剧情片", "记录片", "动画电影", "电影解说", "国产剧", "欧美剧", "香港剧", "韩国剧", "台湾剧", "日本剧", "海外剧", "泰国剧", "短剧", "大陆综艺", "港台综艺", "日韩综艺", "欧美综艺", "足球", "篮球", "网球", "斯诺克", "国产动漫", "日韩动漫", "欧美动漫", "港台动漫", "海外动漫" ] },
     { "key": "MiFun", "name": "MiFun动漫.py", "type": 3, "api": "https://ghfast.top/https://raw.githubusercontent.com/FGBLH/HKL/refs/heads/main/py/MiFun动漫.py" },
-    
-
-
+    { "key": "cj_360资源", "name": "360丨短剧", "type": 1, "searchable": 0, "quickSearch": 1, "filterable": 1, "api": "https://360zy.com/api.php/provide/vod", "categories": [ "爽文短剧", "现代都市", "脑洞悬疑", "年代穿越", "古装仙侠", "反转爽剧", "女频恋爱", "成长逆袭" ] },
+    { "key": "smdj", "name": "星芽短剧.py", "type": 3, "api": "https://ghfast.top/https://raw.githubusercontent.com/FGBLH/HKL/refs/heads/main/py/星芽短剧.py" },
+    { "key": "hmjc", "name": "河马剧场.py", "type": 3, "api": "https://ghfast.top/https://raw.githubusercontent.com/FGBLH/HKL/refs/heads/main/py/河马剧场.py" },
+    { "key": "djjh", "name": "短剧聚合.py", "type": 3, "api": "https://ghfast.top/https://raw.githubusercontent.com/FGBLH/HKL/refs/heads/main/py/短剧聚合.py" },
+    { "key": "捡的音乐", "name": "爱听音乐", "type": 3, "api": "csp_Music1", "searchable": 1, "quickSearch": 1, "ext": "https://ghfast.top/https://raw.githubusercontent.com/FGBLH/HKL/refs/heads/main/jar_js/Music1.json", "jar": "https://ghfast.top/https://raw.githubusercontent.com/FGBLH/HKL/refs/heads/main/jar_js/so.jar", "filterable": 1 },
+    { "key": "配置中心", "name": "配置｜中心", "type": 3, "api": "csp_Config", "searchable": 0, "changeable": 0, "indexs": 0, "style": { "type": "rect", "ratio": 1.597 } },
+    { "key": "本地", "name": "本地｜视频", "type": 3, "api": "csp_LocalFile" },
     { "key": "热播影视", "name": "热播｜APP", "type": 3, "api": "csp_AppRJ", "searchable": 1, "quickSearch": 1, "filterable": 0, "ext": { "url": "http://v.rbotv.cn" } },
     { "key": "三秋影视", "name": "三秋｜APP", "type": 3, "api": "csp_App3Q" },
     { "key": "无极99", "name": "无极丨APP", "type": 3, "api": "csp_App99", "ext": { "host": "http://111.170.140.70:19987/app/bn", "LoginPath": "/app/log", "version": "", "appkey": "c403317c2a2946659b0bcbabdd5de43a", "versionName": "1.0.1", "name": "无极影视", "package": "com.wujiys.app", "buildNumber": "2001", "buildSignature": "A0859BDC35AD3E81D4051E2A4678C77C62773EDB3423DDF1DEFF94CB331D398E" } },
@@ -167,7 +171,7 @@
     { "key": "风车动漫", "name": "风车动漫", "type": 3, "api": "./js/drpy.min.js", "ext": "./js/风车动漫.js" },
     { "key": "去看吧", "name": "去看吧", "type": 3, "api": "./js/drpy.min.js", "ext": "./js/去看吧.js" },
 
-  
+    { "key": "py_douban", "name": "豆瓣 | PY", "type": 3, "api": "./py/py_douban.py", "searchable": 0, "filterable": 0, "changeable": 0 },
     { "key": "荐片", "name": "荐片", "type": 3, "api": "./js/荐片.js" },
     { "key": "apple", "name": "apple", "type": 3, "api": "./js/apple.js" },
     { "key": "Nostr2", "name": "Nostr 合集", "type": 3, "api": "csp_Nostr", "homePage": "./lib/index.html" },
@@ -189,13 +193,14 @@
     { "key": "MDrive", "name": "我的云盘┃我配置", "type": 3, "api": "csp_MyDriveGuard", "changeable": 0, "indexs": 0, "searchable": 1, "style": { "type": "oval" }, "ext": { "Cloud-drive": "tvfan/Cloud-drive.txt" } },
     { "key": "玩偶", "name": "玩偶哥哥┃4K弹幕", "type": 3, "api": "csp_WoGGGuard", "timeout": 30, "searchable": 1, "quickSearch": 1, "changeable": 0, "ext": { "Cloud-drive": "tvfan/Cloud-drive.txt" } },
     { "key": "弹幕", "name": "弹幕", "type": 3, "api": "csp_AIdanmu", "index": 1, "jar": "./xnfdanmu.jar;md5;39f1ae73f00f05c34c4f502cc58f5b9d", "ext": { "apiUrls": [ "http://dm.7887887.xyz/87654321", "https://danmu-api-three-lyart.vercel.app/87654321" ] } },
-    
+    { "key": "MTV1", "name": "易听音乐┃带歌词", "type": 3, "api": "csp_MusicGuard", "style": { "type": "rect", "ratio": 1 }, "playerType": 2, "searchable": 1, "quickSearch": 0, "changeable": 0 },
+    { "key": "爱听音乐", "name": "库我音乐┃带歌词", "jar": "http://cnmb.cc.cd/jk/music.jar;md5;127ea82cb8bf8a82f0cf64da66e39b60", "type": 3, "api": "csp_AweSomeGuard", "searchable": 1, "quickSearch": 1, "changeable": 1, "ext": { "sp": "AiMusic" }, "timeout": 10 },
     { "key": "seed", "name": "聚剧剧┃三盘", "type": 3, "api": "csp_SeedhubGuard", "ext": "5++kwLhNYm9UrO9wh7Dl7eKamTee4s/5", "searchable": 1, "quickSearch": 1, "changeable": 0, "indexs": 0, "style": { "type": "list" } },
     { "key": "ZPan", "name": "聚盘搜┃三盘", "type": 3, "api": "csp_S_zpsGuard", "searchable": 1, "quickSearch": 0, "changeable": 0, "ext": { "siteUrl": "http://38.55.131.86:82/" }, "indexs": 0, "style": { "type": "list" } },
     { "key": "立播", "name": "立播┃秒播", "type": 3, "api": "csp_LibvioGuard", "timeout": 10, "searchable": 1, "quickSearch": 1, "changeable": 1, "ext": { "Cloud-drive": "tvfan/Cloud-drive.txt" } },
     { "key": "奶酪", "name": "奶酪┃秒播", "type": 3, "api": "csp_T4Guard", "searchable": 1, "quickSearch": 1, "changeable": 0, "ext": "rfOIzPkSUkANv6AT2prC8en3+TzKx9TnlT8vaY37HhtYfAQe6C5xqrVuJPhQw" },
 
-
+    { "key": "YGP", "name": "叨观荐影┃预告片", "type": 3, "api": "csp_YGPGuard", "searchable": 0, "quickSearch": 0, "changeable": 0 },
     { "key": "光影", "name": "光影┃不卡", "type": 3, "api": "csp_T4Guard", "searchable": 1, "quickSearch": 1, "changeable": 0, "ext": "rfOIzPkSUkANv6AT2prC8en3+Trbx4j10CIoZMv3Ag4bdEYQqTMqu/Z3YPtC2NJv6n6YeZdgyWlo4WJjBL5gUt6B7LvCEDT4CLrWka31GRq7jwVkfQRB/Jy9HkG7E8xUBIJi5DdVFk3qAuGnwUWqQNRblRxzHW+tdSm6zoFcG/QkZ97bzWOXn0fzbgwjBDkBHgcPIYjlULlctCNKgJ9DzGNSl+zMZDZgmxczsZeeahRS38Cst3qvaHn1T2lmLBGVGXPaRovi77LPRRDOJSNRrdpvCHdRikYwgar0MU56hXMGeGBiKp/OmGTIYR8dFRGvZ/m8xGOqs8U13h6wvADOGlYoP9VaQBqTcDnz9Q0Urhw3oFXWyvIlUrD" },
 
     { "key": "csp_PgDouban", "name": "PG┃豆瓣", "type": 3, "api": "csp_PgDouban", "searchable": 1, "changeable": 1, "ext": { "filters": "https://bitbucket.org/guot55/ygbh/raw/main/pro/json/douban.json", "channel": "tgsearchers3" } },
