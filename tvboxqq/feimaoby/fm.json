@@ -3,13 +3,14 @@
   "wallpaper": "https://深色壁纸.xxooo.cf/",
   "logo": "http://feimao.pro/fm.gif",
   "sites": [
+    { "key": "潮流", "name": "┃潮流┃APP", "type": 3, "api": "csp_AppRJ", "ext": "http://v.rbotv.cn" },
     { "key": "豆瓣", "name": "┃公众号：我不是肥猫┃", "type": 3, "api": "csp_Douban", "searchable": 0 },
     { "key": "豆瓣预告", "name": "┃豆瓣┃预告", "type": 3, "api": "csp_YGP", "playerType": 2, "searchable": 0 },
     { "key": "config", "name": "┃配置┃中心", "type": 3, "api": "csp_Config", "playerType": 2 },
     
     { "key": "csp_Duopan", "name": "︎┃蜡笔┃影视", "type": 3, "api": "csp_Duopan", "filterable": 1, "ext": { "site_urls": [ "http://xiaocge.fun", "http://feimo.fun", "http://www.labi88.sbs", "http://fmao.site", "http://fmao.shop", "http://xiaocgege.shop", "http://www.xiaocgege.shop" ], "threadinfo": { "chunksize": 512, "threads": 16 }, "url_key": "Duopan2" } },
     { "key": "csp_Netfixtv", "name": "┃️至臻┃影视", "type": 3, "api": "csp_Duopan", "filterable": 1, "ext": { "site_urls": [ "https://pan.mihdr.top", "https://www.zhizhen1.top", "https://www.mihdr.top", "https://www.miqk.cc", "https://www.zhizhenpan.com", "https://www.zhizhen8.click" ], "url_key": "Netfixtv2", "threadinfo": { "chunksize": 512, "threads": 16 } } },
-    { "key": "潮流", "name": "┃潮流┃APP", "type": 3, "api": "csp_AppRJ", "ext": "http://v.rbotv.cn" },
+    
     { "key": "肥猫", "name": "┃肥猫┃APP", "type": 3, "api": "csp_AppGet", "ext": "https://cms140.yhg.one|bM7iC9eA3oZ1nB7z" },
     { "key": "干饭", "name": "┃干饭┃APP", "type": 3, "api": "csp_AppGet", "ext": "https://mk1080.top/get.txt|c60d88b2eep53za8" },
     { "key": "光盘", "name": "┃光盘┃APP", "type": 3, "api": "csp_AppQi", "ext": "https://yun-1316442804.cos.ap-guangzhou.myqcloud.com/600.txt|FTgP4Gq8zPiqbt7M" },
