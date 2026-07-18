@@ -57,15 +57,15 @@
     { "key": "sm", "name": "韩国熊猫直播.py", "type": 3, "api": "https://ghfast.top/https://raw.githubusercontent.com/FGBLH/HKL/refs/heads/main/py/熊猫直播.py" },
     { "key": "blzb", "name": "哔哩直播.py", "type": 3, "api": "https://ghfast.top/https://raw.githubusercontent.com/FGBLH/HKL/refs/heads/main/py/哔哩直播.py" },
     { "key": "jhzb", "name": "聚合直播.py", "type": 3, "api": "https://ghfast.top/https://raw.githubusercontent.com/FGBLH/HKL/refs/heads/main/py/聚合直播.py" },
-    { "key": "youtube", "name": "油管", "type": 3, "api": "csp_yt", "homePage": "https://fgblh.github.io/uhuj.github.io/youtube.html" },
+   
     
-    { "key": "youtube3", "name": "油管直播,py", "type": 3, "api": "https://ghfast.top/https://raw.githubusercontent.com/FGBLH/HKL/refs/heads/main/py/油管直播.py" },
+ 
     { "key": "ppx", "name": "皮皮虾.py", "type": 3, "api": "https://ghfast.top/https://raw.githubusercontent.com/FGBLH/HKL/refs/heads/main/py/皮皮虾.py", "ext": "http://43.248.117.123:4680" },
     { "key": "ddvm", "name": "低端影视.py", "type": 3, "api": "https://ghfast.top/https://raw.githubusercontent.com/FGBLH/HKL/refs/heads/main/py/低端影视.py" },
     { "key": "cbh", "name": "茶杯狐.py(关梯)", "type": 3, "api": "https://ghfast.top/https://raw.githubusercontent.com/FGBLH/HKL/refs/heads/main/py/茶杯狐.py" },
     { "key": "ww", "name": "哇哇APP.py(关梯)", "type": 3, "api": "https://ghfast.top/https://raw.githubusercontent.com/FGBLH/HKL/refs/heads/main/py/哇哇APP.py" },
     { "key": "rb", "name": "热播APP.py", "type": 3, "api": "https://ghfast.top/https://raw.githubusercontent.com/FGBLH/HKL/refs/heads/main/py/热播APP.py" },
-    { "key": "JP", "name": "金牌APP.py", "type": 3, "api": "https://ghfast.top/https://raw.githubusercontent.com/FGBLH/HKL/refs/heads/main/py/金牌APP.py" },
+    
     { "key": "GZ", "name": "瓜子APP.py", "type": 3, "api": "https://ghfast.top/https://raw.githubusercontent.com/FGBLH/HKL/refs/heads/main/py/瓜子APP.py" },
     { "key": "nnyy", "name": "努努影院.py", "type": 3, "api": "https://ghfast.top/https://raw.githubusercontent.com/FGBLH/HKL/refs/heads/main/py/努努影院.py" },
     { "key": "nvm", "name": "泥视频.py", "type": 3, "api": "https://ghfast.top/https://raw.githubusercontent.com/FGBLH/HKL/refs/heads/main/py/泥视频.py" },
