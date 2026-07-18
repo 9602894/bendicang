@@ -11,9 +11,9 @@
     { "key": "csp_Duopan", "name": "︎┃蜡笔┃影视", "type": 3, "api": "csp_Duopan", "filterable": 1, "ext": { "site_urls": [ "http://xiaocge.fun", "http://feimo.fun", "http://www.labi88.sbs", "http://fmao.site", "http://fmao.shop", "http://xiaocgege.shop", "http://www.xiaocgege.shop" ], "threadinfo": { "chunksize": 512, "threads": 16 }, "url_key": "Duopan2" } },
     { "key": "csp_Netfixtv", "name": "┃️至臻┃影视", "type": 3, "api": "csp_Duopan", "filterable": 1, "ext": { "site_urls": [ "https://pan.mihdr.top", "https://www.zhizhen1.top", "https://www.mihdr.top", "https://www.miqk.cc", "https://www.zhizhenpan.com", "https://www.zhizhen8.click" ], "url_key": "Netfixtv2", "threadinfo": { "chunksize": 512, "threads": 16 } } },
     
-    { "key": "肥猫", "name": "┃肥猫┃APP", "type": 3, "api": "csp_AppGet", "ext": "https://cms140.yhg.one|bM7iC9eA3oZ1nB7z" },
+    { "key": "肥猫", "name": "┃肥猫┃APP", "type": 3, "api": "csp_AppGet", "ext": "https://cms140.yhg.one|bM7iC9eA3oZ1nB7z" }
      
- ],
+  ],
   "parses": [
     { "name": "Json聚合", "type": 3, "url": "Demo" },
     { "name": "Web聚合", "type": 3, "url": "Web" },
@@ -25,7 +25,7 @@
     { "name": "Cloudflare", "url": "https://cloudflare-dns.com/dns-query", "ips": [ "1.1.1.1", "1.0.0.1", "2606:4700:4700::1111", "2606:4700:4700::1001" ] },
     { "name": "AdGuard", "url": "https://dns.adguard.com/dns-query", "ips": [ "94.140.14.140", "94.140.14.141" ] },
     { "name": "DNSWatch", "url": "https://resolver2.dns.watch/dns-query", "ips": [ "84.200.69.80", "84.200.70.40" ] },
-    { "name": "Quad9", "url": "https://dns.quad9.net/dns-quer", "ips": [ "9.9.9.9", "149.112.112.112" ] }
+    { "name": "Quad9", "url": "https://dns.quad9.net/dns-query", "ips": [ "9.9.9.9", "149.112.112.112" ] }
   ],
   "lives": [
     { "name": "Kimentanm", "type": 0, "url": "./lib/Kimentanm.txt" },
