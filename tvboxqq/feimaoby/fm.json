@@ -16,7 +16,7 @@
     { "key": "看球", "name": "⚾┃看球┃直播", "type": 3, "api": "csp_Kanqiu", "searchable": 1, "quickSearch": 1, "changeable": 0, "gridview": 3, "style": { "type": "list" } },
    { "key": "csp_Wwys", "name": "️┃农民┃影视", "type": 3, "api": "csp_Wwys", "ext": "https://vip.wwgz.cn:5200" },
     { "key": "YKvm", "name": "优酷视频", "type": 3, "api": "https://file.icve.com.cn/file_doc/249/899/3E7E0C8A023B624CEC6BDCC200F06F02.js", "ext": "https://cdn.waimaimingtang.com/file/images/bwc/20251023002200-507c3e8aae.js" },
-    { "key": "TX", "name": "腾讯视频", "type": 3, "api": "https://file.icve.com.cn/file_doc/249/899/3E7E0C8A023B624CEC6BDCC200F06F02.js", "ext": "https://cdn.waimaimingtang.com/file/images/bwc/20251023002144-0e40887294.js" },
+   { "key": "hajim-腾讯备", "name": "腾讯视频备用", "type": 3, "api": "https://ghfast.top/https://raw.githubusercontent.com/IY-CPU/IY/main/lib/drpy2.min.js", "searchable": 1, "changeable": 1, "ext": "https://fastlink.cokey.xyz/f/1MOEc5/%E8%85%BE%E8%85%BE.js" },
     { "key": "MG", "name": "芒果TV", "type": 3, "api": "https://file.icve.com.cn/file_doc/249/899/3E7E0C8A023B624CEC6BDCC200F06F02.js", "ext": "https://cdn.waimaimingtang.com/file/images/bwc/20251023002108-a4795930ec.js" },
     { "key": "local_video", "name": "本地｜视频", "type": 3, "api": "csp_LocalFile" }
   ],
