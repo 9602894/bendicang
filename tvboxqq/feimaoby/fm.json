@@ -19,7 +19,7 @@
  
     { "key": "蔬菜", "name": "┃蔬菜┃APP", "type": 3, "api": "csp_AppGet", "ext": "https://gitee.com/wmmoliill/wimg/raw/master/img/bk/9.txt|88689667dce61725" },
     { "key": "永永", "name": "♾️┃永永┃APP", "type": 3, "api": "csp_AppGet", "ext": "https://444421.xyz|#getapp@TMD@2025|120" },
-    { "key": "csp_Jpys", "name": "️┃金牌┃影视", "type": 3, "api": "csp_Jpys" },
+
     { "key": "csp_Wwys", "name": "️┃农民┃影视", "type": 3, "api": "csp_Wwys", "ext": "https://vip.wwgz.cn:5200" },
     { "key": "荐片", "name": "┃荐片┃影视", "api": "csp_Jianpian", "type": 3, "playerType": "2", "ext": "https://api.ztcgi.com" },
     { "key": "csp_SaoHuo", "name": "┃火火┃影视", "type": 3, "api": "csp_SaoHuo", "playerType": 2, "ext": "https://shdy5.us" },
