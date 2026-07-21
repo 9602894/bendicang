@@ -3,12 +3,7 @@
   "wallpaper": "https://深色壁纸.xxooo.cf/",
   "logo": "http://feimao.pro/fm.gif",
   "sites": [
-    { "key": "潮流", "name": "┃潮流┃APP", "type": 3, "api": "csp_AppRJ", "ext": "http://v.rbotv.cn" },
-    { "key": "豆瓣", "name": "┃公众号：我不是肥猫┃", "type": 3, "api": "csp_Douban", "searchable": 0 },
-    { "key": "豆瓣预告", "name": "┃豆瓣┃预告", "type": 3, "api": "csp_YGP", "playerType": 2, "searchable": 0 },
-    { "key": "config", "name": "┃配置┃中心", "type": 3, "api": "csp_Config", "playerType": 2 },
-    { "key": "csp_Gz360", "name": "┃瓜子┃影视", "type": 3, "api": "csp_Gz360", "playerType": 2 },
-     {
+         {
       "key": "新腾极4k",
       "name": "🔥问鼎中原4k-双煞🔥",
       "type": 3,
@@ -20,6 +15,12 @@
       "changeable": 0,
       "ext": "http://8.148.229.212:802/问鼎4k/lib/问鼎4kTX.js"
     },
+    { "key": "潮流", "name": "┃潮流┃APP", "type": 3, "api": "csp_AppRJ", "ext": "http://v.rbotv.cn" },
+    { "key": "豆瓣", "name": "┃公众号：我不是肥猫┃", "type": 3, "api": "csp_Douban", "searchable": 0 },
+    { "key": "豆瓣预告", "name": "┃豆瓣┃预告", "type": 3, "api": "csp_YGP", "playerType": 2, "searchable": 0 },
+    { "key": "config", "name": "┃配置┃中心", "type": 3, "api": "csp_Config", "playerType": 2 },
+    { "key": "csp_Gz360", "name": "┃瓜子┃影视", "type": 3, "api": "csp_Gz360", "playerType": 2 },
+
     { "key": "厂长", "name": "┃厂长┃影视", "type": 3, "playerType": "2", "api": "csp_Czsapp", "searchable": 1, "quickSearch": 1, "filterable": 1, "ext": "https://www.czzy89.com" },
     { "key": "csp_Jpys", "name": "️┃金牌┃影视", "type": 3, "api": "csp_Jpys" },
     { "key": "csp_Wwys", "name": "️┃农民┃影视", "type": 3, "api": "csp_Wwys", "ext": "https://vip.wwgz.cn:5200" },
