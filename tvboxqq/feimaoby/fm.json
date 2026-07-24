@@ -3,18 +3,7 @@
   "wallpaper": "https://深色壁纸.xxooo.cf/",
   "logo": "http://feimao.pro/fm.gif",
   "sites": [
-         {
-      "key": "新腾极4k",
-      "name": "🔥问鼎中原4k-双煞🔥",
-      "type": 3,
-      "api": "http://8.148.229.212:802/tianyun4k/drpy_libs/drpy2.min.js",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "order_num": 0,
-      "changeable": 0,
-      "ext": "http://8.148.229.212:802/问鼎4k/lib/问鼎4kTX.js"
-    },
+  
     { "key": "潮流", "name": "┃潮流┃APP", "type": 3, "api": "csp_AppRJ", "ext": "http://v.rbotv.cn" },
     { "key": "豆瓣", "name": "┃公众号：我不是肥猫┃", "type": 3, "api": "csp_Douban", "searchable": 0 },
     { "key": "豆瓣预告", "name": "┃豆瓣┃预告", "type": 3, "api": "csp_YGP", "playerType": 2, "searchable": 0 },
