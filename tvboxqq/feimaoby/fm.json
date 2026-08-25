@@ -9,7 +9,15 @@
     { "key": "豆瓣预告", "name": "┃豆瓣┃预告", "type": 3, "api": "csp_YGP", "playerType": 2, "searchable": 0 },
     { "key": "config", "name": "┃配置┃中心", "type": 3, "api": "csp_Config", "playerType": 2 },
     { "key": "csp_Gz360", "name": "┃瓜子┃影视", "type": 3, "api": "csp_Gz360", "playerType": 2 },
-
+    {
+           "key": "hajim-腾讯备",
+           "name": "🐬腾讯4K",
+           "type": 3,
+           "api": "https://ghfast.top/https://raw.githubusercontent.com/IY-CPU/IY/main/lib/drpy2.min.js",
+           "searchable": 1,
+           "changeable": 1,
+           "ext": "https://fastlink.cokey.xyz/f/1MOEc5/%E8%85%BE%E8%85%BE.js"
+        },
     { "key": "厂长", "name": "┃厂长┃影视", "type": 3, "playerType": "2", "api": "csp_Czsapp", "searchable": 1, "quickSearch": 1, "filterable": 1, "ext": "https://www.czzy89.com" },
     { "key": "csp_Jpys", "name": "️┃金牌┃影视", "type": 3, "api": "csp_Jpys" },
     { "key": "csp_Wwys", "name": "️┃农民┃影视", "type": 3, "api": "csp_Wwys", "ext": "https://vip.wwgz.cn:5200" },
