@@ -9,24 +9,7 @@
     { "key": "豆瓣预告", "name": "┃豆瓣┃预告", "type": 3, "api": "csp_YGP", "playerType": 2, "searchable": 0 },
     { "key": "config", "name": "┃配置┃中心", "type": 3, "api": "csp_Config", "playerType": 2 },
     { "key": "csp_Gz360", "name": "┃瓜子┃影视", "type": 3, "api": "csp_Gz360", "playerType": 2 },
-            {
-            "key": "至臻",
-            "name": "至臻1｜4K",
-            "type": 3,
-            "api": "csp_PanWebShare",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "changeable": 1,
-            "ext": {
-                "site": [
-                    "https://mihdr.top",
-                    "https://www.miqk.cc",
-                    "https://www.mihdr.top"
-                ]
-            },
-            "timeout": 60
-        },
+           
     {
            "key": "hajim-腾讯备",
            "name": "🐬腾讯4K",
@@ -36,22 +19,7 @@
            "changeable": 1,
            "ext": "https://fastlink.cokey.xyz/f/1MOEc5/%E8%85%BE%E8%85%BE.js"
         },
-        {
-            "key": "咕噜",
-            "name": "咕噜丨APP",
-            "type": 3,
-            "api": "csp_App99",
-            "ext": {
-                "host": "http://103.45.132.22:19987/app/bn",
-                "LoginPath": "/app/log",
-                "appkey": "d1f0c269eab74d93821fffc9befdbbba",
-                "versionName": "1.9.5",
-                "name": "咕噜咕噜",
-                "package": "com.bd.tool.gulu",
-                "buildNumber": "2001",
-                "buildSignature": "B07C8F6DBEBD3ABEE6A4A4DE2BFBBF29A0AC3F984D532A39448EC3BF5DD36311"
-            }
-        },
+      
     { "key": "厂长", "name": "┃厂长┃影视", "type": 3, "playerType": "2", "api": "csp_Czsapp", "searchable": 1, "quickSearch": 1, "filterable": 1, "ext": "https://www.czzy89.com" },
     { "key": "csp_Jpys", "name": "️┃金牌┃影视", "type": 3, "api": "csp_Jpys" },
     { "key": "csp_Wwys", "name": "️┃农民┃影视", "type": 3, "api": "csp_Wwys", "ext": "https://vip.wwgz.cn:5200" },
