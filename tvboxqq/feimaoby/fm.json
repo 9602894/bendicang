@@ -9,6 +9,24 @@
     { "key": "豆瓣预告", "name": "┃豆瓣┃预告", "type": 3, "api": "csp_YGP", "playerType": 2, "searchable": 0 },
     { "key": "config", "name": "┃配置┃中心", "type": 3, "api": "csp_Config", "playerType": 2 },
     { "key": "csp_Gz360", "name": "┃瓜子┃影视", "type": 3, "api": "csp_Gz360", "playerType": 2 },
+            {
+            "key": "至臻",
+            "name": "至臻1｜4K",
+            "type": 3,
+            "api": "csp_PanWebShare",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "changeable": 1,
+            "ext": {
+                "site": [
+                    "https://mihdr.top",
+                    "https://www.miqk.cc",
+                    "https://www.mihdr.top"
+                ]
+            },
+            "timeout": 60
+        },
     {
            "key": "hajim-腾讯备",
            "name": "🐬腾讯4K",
